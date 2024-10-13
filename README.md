@@ -15,8 +15,8 @@
 # 📝 About Me
 
 <p>
-💡Creative Thinker, Problem Solver, and Innovator. My experience spans web development, UX/UI design, and SEO/SEM optimization, focusing on creating sophisticated, high-performing solutions. Whether it's a custom WordPress site, a Shopify storefront, or a React.js application, I aim to blend creativity and functionality for meaningful results.</br> 
-🚀 Continuous learning and innovation drive me, and I always focus on core principles to push the boundaries of what's possible.
+💡 Creative Thinker, Problem Solver, and Innovator. With expertise in web development, UX/UI design, and SEO/SEM optimization, I craft sophisticated, high-performing digital solutions that drive results. Whether developing a custom WordPress site, Shopify storefront, or React.js application, I ensure creativity meets functionality for impactful user experiences.
+🚀 Fueled by continuous learning, I push the boundaries of what's possible while staying grounded in core principles, delivering solutions that elevate businesses and engage audiences.
 </p>
 
 ## 🛠️ Technologies I Use
