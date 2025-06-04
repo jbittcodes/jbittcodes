@@ -4,7 +4,7 @@
 
 <!-- Intro -->
 <h3 align="center"> 
-    <samp>👋 Hey There!, I am <b style='color:#FF6347 !important;'>James</b> 🧑‍💻</samp> 
+    <samp>👋 Hey There!, I'm<b style='color:#FF6347 !important;'>James</b> 🧑‍💻</samp> 
 </h3> 
 <p align="center"> 
     <samp>「 I'm a multidisciplinary designer and developer, passionate about delivering user-centered experiences that meet and exceed business goals. 」<br></samp>
